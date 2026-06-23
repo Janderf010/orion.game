@@ -1,27 +1,15 @@
-# orion.game
-ORION-THE-LOST-PLANET/
+ORION-THE-LOST-PLANET 🚀
 
-├── Assets/
-│   ├── Scenes/
-│   │   ├── MainMenu.unity
-│   │   ├── EarthStart.unity
-│   │   └── OrionBoss.unity
-│   │
-│   ├── Scripts/
-│   │   ├── ShipController.cs
-│   │   ├── PlayerController.cs
-│   │   ├── GameManager.cs
-│   │   ├── PlanetManager.cs
-│   │   ├── BossAI.cs
-│   │   └── DialogueSystem.cs
-│   │
-│   ├── Prefabs/
-│   ├── Materials/
-│   └── Models/
-│
-├── Packages/
-│
-├── ProjectSettings/
-│
-├── README.md
-└── .gitignore
+Descrição:
+Jogo 3D de exploração espacial criado em Unity.
+
+Tecnologias:
+- Unity
+- C#
+- Blender (modelos)
+
+Status:
+🟡 Em desenvolvimento
+
+Versão:
+V0.1
